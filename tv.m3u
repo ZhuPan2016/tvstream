@@ -37,7 +37,7 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000006/index.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00000007/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-8电视剧
 http://39.137.76.32:8089/00/SNM/CHANNEL00000008/index.m3u8
-#EXTINF:-1 group-title="电视节目",CCTV-9HD
+#EXTINF:-1 group-title="电视节目",CCTV-9记录
 http://39.137.76.32:8089/00/SNM/CHANNEL10000009/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-10科教
 http://39.137.76.32:8089/00/SNM/CHANNEL00000010/index.m3u8
@@ -103,6 +103,8 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000032/index.m3u8
 #EXTINF:-1 group-title="电视节目",四川卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000033/index.m3u8
+#EXTINF:-1 group-title="电视节目",四川康巴卫视
+http://scgctvshow.sctv.com/sdlive/kangba/3.m3u8
 #EXTINF:-1 group-title="电视节目",河北卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000034/index.m3u8
 #EXTINF:-1 group-title="电视节目",江西卫视
@@ -135,6 +137,24 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000046/index.m3u8
 #EXTINF:-1 group-title="电视节目",香港电视31台
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="电视节目",香港电视32台
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="电视节目",澳亚卫视
+http://stream.mastvnet.com/MASTV/playlist.m3u8
+#EXTINF:-1 group-title="电视节目",澳门卫视
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1 group-title="电视节目",亚洲旅游
+http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+#EXTINF:-1 group-title="电视节目",民视新闻
+http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+#EXTINF:-1 group-title="电视节目",非凡新闻
+http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+#EXTINF:-1 group-title="电视节目",华视资讯
+http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+#EXTINF:-1 group-title="电视节目",台视新闻
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+#EXTINF:-1 group-title="电视节目",中旺电视
+http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
 #EXTINF:-1 group-title="电视节目",金鹰纪实
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182315/main.m3u8??
 #EXTINF:-1 group-title="电视节目",靓妆
