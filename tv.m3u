@@ -17,6 +17,10 @@ http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000615/index.m3u8
 #EXTINF:-1 group-title="电视节目",地理频道
 http://117.156.28.119/270000001111/1110000122/index.m3u8
+#EXTINF:-1 group-title="电视节目",发现之旅
+http://125.210.158.10:8060/live/FXZL.m3u8
+#EXTINF:-1 group-title="电视节目",北京纪实
+http://125.210.152.20:9090/live/BJJS.m3u8
 #EXTINF:-1 group-title="电视节目",军事频道
 http://117.156.28.119/270000001111/1110000116/index.m3u8
 #EXTINF:-1 group-title="电视节目",Newstv农业致富
