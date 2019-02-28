@@ -575,6 +575,20 @@ http://gncdn.wb699.com/ppvod/AFECF148DB45B317238932C6A33AE9C9.m3u8
 http://gncdn.wb699.com/ppvod/20A5B5D951F4B5C2559CF778E701EA2F.m3u8
 #EXTINF:-1 group-title="乡村爱情10",第15集
 http://gncdn.wb699.com/ppvod/D349ABD831D6D4F9749D9B0B29CEB3C5.m3u8
+#EXTINF:-1 group-title="与全世界做生意",第一集 与世界的距离
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/68b8a8f08ab547d8868b5ac7e6e0b045/850.m3u8
+#EXTINF:-1 group-title="与全世界做生意",第二集 去远方
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/7d8dbd03dee34f9084f0628e523175d7/850.m3u8
+#EXTINF:-1 group-title="与全世界做生意",第三集 买卖不死
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/6884ab0f85024216b9b0f63de6bb6aa2/850.m3u8
+#EXTINF:-1 group-title="与全世界做生意",第四集 时间就是金钱
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/239e225c89f14bde8509a6f261f9e7ab/850.m3u8
+#EXTINF:-1 group-title="与全世界做生意",第五集 大生意
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/9fa825f6b2e049738a57f1104948bd98/850.m3u8
+#EXTINF:-1 group-title="与全世界做生意",第六集 看不见的博弈
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/419d14a3b22f41e088f3b9f188f2a58b/850.m3u8
+#EXTINF:-1 group-title="与全世界做生意",第七集 未来的利润
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/054d894000c34d10a22dddd5da40f277/850.m3u8
 #EXTINF:-1 group-title="文明密码",20180723喀什手工技艺
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/dc163c636c8e46b6b22a5df6a04adfe4/850.m3u8
 #EXTINF:-1 group-title="文明密码",20180716美丽万宁我的家
@@ -1441,3 +1455,5 @@ http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/d54b29e1abeb4da2
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/366785819a004123a8a404a6058e824a/850.m3u8
 #EXTINF:-1 group-title="寻味顺德",第三集 美味相传
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/5717e7fdbdb3485da0f5b2b368b8422d/850.m3u8
+
+
