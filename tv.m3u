@@ -17,10 +17,8 @@ http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000615/index.m3u8
 #EXTINF:-1 group-title="电视节目",地理频道
 http://117.156.28.119/270000001111/1110000122/index.m3u8
-#EXTINF:-1 group-title="电视节目",发现之旅
-http://125.210.158.10:8060/live/FXZL.m3u8
-#EXTINF:-1 group-title="电视节目",北京纪实
-http://125.210.152.20:9090/live/BJJS.m3u8
+#EXTINF:-1 group-title="电视节目",上海纪实
+http://27.148.222.172:6610/00000009/2/01000000000000000000000000000038/index.m3u8?virtualDomain=00000009.live_hls.zte.com
 #EXTINF:-1 group-title="电视节目",军事频道
 http://117.156.28.119/270000001111/1110000116/index.m3u8
 #EXTINF:-1 group-title="电视节目",Newstv农业致富
@@ -55,8 +53,6 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000013/index.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00000014/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-15音乐
 http://39.137.76.32:8089/00/SNM/CHANNEL00000015/index.m3u8
-#EXTINF:-1 group-title="电视节目",CCTV-15广电
-http://cbn-pb.cbchot.com/live/ch003_1.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-5+HD
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182561/main.m3u8??
 #EXTINF:-1 group-title="电视节目",中国气象
@@ -149,6 +145,18 @@ http://stream.mastvnet.com/MASTV/playlist.m3u8
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 group-title="电视节目",金鹰纪实
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182315/main.m3u8??
+#EXTINF:-1 group-title="电视节目",生活时尚
+http://27.148.222.172:6610/00000009/2/01000000000000000000000000000041/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 group-title="电视节目",魅力音乐
+http://27.148.222.172:6610/00000009/2/01000000000000000000000000000040/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 group-title="电视节目",欢笑剧场
+http://27.148.222.175:6610/00000009/2/01000000000000000000000000000045/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 group-title="电视节目",极速汽车
+http://27.148.222.170:6610/00000009/2/01000000000000000000000000000033/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 group-title="电视节目",都市剧场
+http://27.148.222.176:6610/00000009/2/01000000000000000000000000000044/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 group-title="电视节目",法治天地
+http://27.148.222.167:6610/00000009/2/01000000000000000000000000000037/index.m3u8?virtualDomain=00000009.live_hls.zte.com
 #EXTINF:-1 group-title="电视节目",靓妆
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000406/index.m3u8
 #EXTINF:-1 group-title="电视节目",百姓健康
@@ -217,12 +225,8 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000645/index.m3u8
 #EXTINF:-1 group-title="电视节目",留学世界
 http://l.cztvcloud.com/channels/lantian/channel09/360p.m3u8
-#EXTINF:-1 group-title="电视节目",上海纪实频道
-http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8
 #EXTINF:-1 group-title="电视节目",Newstv精品记录
 http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv中国功夫
-http://223.110.245.135/PLTV/3/224/3221226935/index.m3u8
 #EXTINF:-1 group-title="电视节目",Newstv爱情喜剧
 http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
 #EXTINF:-1 group-title="电视节目",Newstv搏击
