@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="电视节目",CCTV-1综合
-http://39.137.76.32:8089/00/SNM/CHANNEL00000001/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000001/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000051/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东齐鲁
@@ -15,50 +15,36 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 #EXTINF:-1 group-title="电视节目",世界地理
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000615/index.m3u8
-#EXTINF:-1 group-title="电视节目",地理频道
-http://117.156.28.119/270000001111/1110000122/index.m3u8
-#EXTINF:-1 group-title="电视节目",上海纪实
-http://27.148.222.172:6610/00000009/2/01000000000000000000000000000038/index.m3u8?virtualDomain=00000009.live_hls.zte.com
-#EXTINF:-1 group-title="电视节目",军事频道
-http://117.156.28.119/270000001111/1110000116/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv农业致富
-http://183.207.249.15/PLTV/3/224/3221225537/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv军事评论
-http://183.207.249.14/PLTV/3/224/3221225533/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-2财经
-http://39.137.76.32:8089/00/SNM/CHANNEL00000002/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000002/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-3综艺
-http://39.137.76.32:8089/00/SNM/CHANNEL00000003/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000003/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-4中文国际
-http://39.137.76.32:8089/00/SNM/CHANNEL00000004/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000004/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-5体育
-http://39.137.76.32:8089/00/SNM/CHANNEL30000005/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000005/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-6电影
-http://39.137.76.32:8089/00/SNM/CHANNEL00000006/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000006/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-7军事与农业
-http://39.137.76.32:8089/00/SNM/CHANNEL00000007/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000007/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-8电视剧
-http://39.137.76.32:8089/00/SNM/CHANNEL00000008/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-9记录
-http://39.137.76.32:8089/00/SNM/CHANNEL10000009/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000009/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-10科教
-http://39.137.76.32:8089/00/SNM/CHANNEL00000010/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000010/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-11戏曲
-http://39.137.76.32:8089/00/SNM/CHANNEL00000011/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000011/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-12社会与法
-http://39.137.76.32:8089/00/SNM/CHANNEL00000012/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000012/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-13新闻
-http://39.137.76.32:8089/00/SNM/CHANNEL00000013/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000013/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-14少儿
-http://39.137.76.32:8089/00/SNM/CHANNEL00000014/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000014/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-15音乐
-http://39.137.76.32:8089/00/SNM/CHANNEL00000015/index.m3u8
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000015/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-5+HD
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182561/main.m3u8??
-#EXTINF:-1 group-title="电视节目",中国气象
-http://223.99.189.66:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000609/index.m3u8
-#EXTINF:-1 group-title="电视节目",中国气象
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000609/index.m3u8
 #EXTINF:-1 group-title="电视节目",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="电视节目",山东教育
@@ -271,6 +257,10 @@ http://117.156.28.119/270000001111/1110000051/index.m3u8
 http://117.156.28.119/270000001111/1110000055/index.m3u8
 #EXTINF:-1 group-title="电视节目",IPTV-8+
 http://117.156.28.119/270000001111/1110000057/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV-魅力时尚
+http://223.99.189.66:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000609/index.m3u8
+#EXTINF:-1 group-title="电视节目",IPTV-魅力时尚
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000609/index.m3u8
 #EXTINF:-1 group-title="电视节目",海看生活
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000202/index.m3u8
 #EXTINF:-1 group-title="电视节目",海看教育
