@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="电视节目",CCTV-1综合
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000001/index.m3u8
+#EXTINF:-1 group-title="电视节目",爹妈满院1
+https://56.com-t-56.com/20190226/7010_137c452b/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000051/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东齐鲁
