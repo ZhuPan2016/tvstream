@@ -6,7 +6,9 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 #EXTINF:-1 group-title="电视节目",山东齐鲁
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8
 #EXTINF:-1 group-title="电视节目",中国气象
-http://39.137.76.32:8089/00/SNM/CHANNEL00000609/index.m3u8
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV老故事
+http://ott.js.chinamobile.com/PLTV/4/224/3221227043/index.m3u8
 #EXTINF:-1 group-title="电视节目",老故事
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000624/index.m3u8
 #EXTINF:-1 group-title="电视节目",央视文化精品
@@ -45,8 +47,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000015/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-5+HD
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182561/main.m3u8??
-#EXTINF:-1 group-title="电视节目",中国气象
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="电视节目",山东教育
 http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 #EXTINF:-1 group-title="电视节目",浙江卫视
@@ -78,7 +78,7 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 #EXTINF:-1 group-title="电视节目",东南卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000028/index.m3u8
 #EXTINF:-1 group-title="电视节目",厦门卫视
-http://117.156.28.119/270000001111/1110000103/index.m3u8
+http://183.207.249.11/PLTV/2/224/3221226093/index.m3u8
 #EXTINF:-1 group-title="电视节目",陕西卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000029/index.m3u8
 #EXTINF:-1 group-title="电视节目",旅游卫视
@@ -101,10 +101,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000037/index.m3u8
 #EXTINF:-1 group-title="电视节目",广西卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000038/index.m3u8
-#EXTINF:-1 group-title="电视节目备用",广西卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225811/index.m3u8
-#EXTINF:-1 group-title="电视节目备用",广西卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226002/index.m3u8
 #EXTINF:-1 group-title="电视节目",云南卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000039/index.m3u8
 #EXTINF:-1 group-title="电视节目",内蒙古卫视
@@ -131,20 +127,40 @@ http://stream.mastvnet.com/MASTV/playlist.m3u8
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 group-title="电视节目",金鹰纪实
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182315/main.m3u8??
+#EXTINF:-1 group-title="电视节目",全纪实
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/1.m3u8
+#EXTINF:-1 group-title="电视节目",上海纪实
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225971/1.m3u8
+#EXTINF:-1 group-title="电视节目",上海电视剧
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225970/1.m3u8
+#EXTINF:-1 group-title="电视节目",上海新闻
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225973/1.m3u8
+#EXTINF:-1 group-title="电视节目",上海外语
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225972/1.m3u8
+#EXTINF:-1 group-title="电视节目",上海都市
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225969/1.m3u8
+#EXTINF:-1 group-title="电视节目",上海五星体育
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/1.m3u8
 #EXTINF:-1 group-title="电视节目",生活时尚
-http://27.148.222.172:6610/00000009/2/01000000000000000000000000000041/index.m3u8?virtualDomain=00000009.live_hls.zte.com
-#EXTINF:-1 group-title="电视节目",魅力音乐
-http://27.148.222.172:6610/00000009/2/01000000000000000000000000000040/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225918/1.m3u8
 #EXTINF:-1 group-title="电视节目",欢笑剧场
-http://27.148.222.175:6610/00000009/2/01000000000000000000000000000045/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225963/1.m3u8
 #EXTINF:-1 group-title="电视节目",极速汽车
-http://27.148.222.170:6610/00000009/2/01000000000000000000000000000033/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225962/1.m3u8
+#EXTINF:-1 group-title="电视节目",劲爆体育
+http://223.110.245.222/PLTV/2/224/3221226045/index.m3u8
 #EXTINF:-1 group-title="电视节目",都市剧场
-http://27.148.222.176:6610/00000009/2/01000000000000000000000000000044/index.m3u8?virtualDomain=00000009.live_hls.zte.com
-#EXTINF:-1 group-title="电视节目",法治天地
-http://27.148.222.167:6610/00000009/2/01000000000000000000000000000037/index.m3u8?virtualDomain=00000009.live_hls.zte.com
-#EXTINF:-1 group-title="电视节目",靓妆
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000406/index.m3u8
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225902/1.m3u8
+#EXTINF:-1 group-title="电视节目",第一财经
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225891/1.m3u8
+#EXTINF:-1 group-title="电视节目",游戏风云
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225897/1.m3u8
+#EXTINF:-1 group-title="电视节目",动漫秀场
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225977/1.m3u8
+#EXTINF:-1 group-title="电视节目",嘉卡动画
+http://183.207.249.11/PLTV/2/224/3221226099/index.m3u8
+#EXTINF:-1 group-title="电视节目",七彩戏剧
+http://223.110.245.222/PLTV/2/224/3221226039/index.m3u8
 #EXTINF:-1 group-title="电视节目",百姓健康
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000602/index.m3u8
 #EXTINF:-1 group-title="电视节目",央广健康
@@ -211,40 +227,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000645/index.m3u8
 #EXTINF:-1 group-title="电视节目",留学世界
 http://l.cztvcloud.com/channels/lantian/channel09/360p.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv精品记录
-http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv爱情喜剧
-http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv搏击
-http://223.110.245.134/PLTV/3/224/3221226656/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv潮妈辣婆
-http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv动画王国
-http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv古装剧场
-http://183.207.249.14/PLTV/3/224/3221225527/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv海外剧场
-http://183.207.249.16/PLTV/3/224/3221225547/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv家庭剧场
-http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv健康有约
-http://183.207.249.14/PLTV/3/224/3221225545/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv金牌综艺
-http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv惊悚悬疑
-http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv精品大剧
-http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv精品电影
-http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv精品体育
-http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv军旅剧场
-http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv明星大片
-http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
-#EXTINF:-1 group-title="电视节目",Newstv完美游戏
-http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 #EXTINF:-1 group-title="电视节目",IPTV-谍战剧场
 http://117.156.28.119/270000001111/1110000110/index.m3u8
 #EXTINF:-1 group-title="电视节目",IPTV-法治
@@ -289,8 +271,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000049/index.m3u8
 #EXTINF:-1 group-title="电视节目",炫动卡通
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000050/index.m3u8
-#EXTINF:-1 group-title="电视节目",嘉佳卡通
-http://39.134.23.82:80/wh7f454c46tw34459746_1485052429/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225620/2.m3u8
 #EXTINF:-1 group-title="电视节目",山东公共
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000053/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东综艺
@@ -364,49 +344,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 #EXTINF:-1 group-title="电视节目",青岛6
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8
 
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情1
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhMGalAiqYUqD00ns42@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情2
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/GEsfURobrDuX8TylzF5@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情3
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/4CUE2LAKIWeozVsrfBW@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情4
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/L8p68xi0qkoxkvXrlj3@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情5
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/ZEqjX9qjRbczjnw1ucE@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情6
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/NnUViz9OjYFFwTRuCnv@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情7
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/XwnwYcrCkS6NZb86IcC@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情8
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/stuyrUKaTiUtUIAOM7Y@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情9
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/MJpOi3Cn9rhpHqKFFgs@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情10
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/lNBZOaUSCmOgwvPfPj8@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情11
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/NHykLNcxqSRvN9TM5Uv@@sd.m3u8
-#EXTINF:-1 group-title="乡村爱情11",乡村爱情12
-https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/OMhUBi9hrkRXUIGkizb@@sd.m3u8
-
-
-#EXTINF:-1 group-title="风味人间",第01集
-http://bf2.ahpai.cc/ppvod/3BB3F7F4777DAD566465D2C0B6531D47.m3u8
-#EXTINF:-1 group-title="风味人间",第02集
-http://bf2.ahpai.cc/ppvod/19EBB9D5BEDD62C7939A848063821FD6.m3u8
-#EXTINF:-1 group-title="风味人间",第03集
-http://bf2.ahpai.cc/ppvod/B2360569EF4A23E14756F2A91E67F6C2.m3u8
-#EXTINF:-1 group-title="风味人间",第04集
-http://bf2.ahpai.cc/ppvod/F8D46A4BBF04E5036692AC7639DF4460.m3u8
-#EXTINF:-1 group-title="风味人间",第05集
-http://bf2.ahpai.cc/ppvod/BE976E164A20A949E0774C5791FD39DA.m3u8
-#EXTINF:-1 group-title="风味人间",第06集
-http://bf2.ahpai.cc/ppvod/A607CB82B65AC012DEB00E3FBCF400F5.m3u8
-#EXTINF:-1 group-title="风味人间",第07集
-http://bf2.ahpai.cc/ppvod/557759D0AEBC89373B1F3C3D1975E418.m3u8
-#EXTINF:-1 group-title="风味人间",第08集
-http://bf2.ahpai.cc/ppvod/9E6500E14D72BF6B46BD77A4860ACFFB.m3u8
-
 #EXTINF:-1 group-title="创新中国",创新中国1
 http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/b729d80cc13d40c2a0c8abc48584c902/2000.m3u8
 #EXTINF:-1 group-title="创新中国",创新中国2
@@ -419,156 +356,6 @@ http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/4649b34d0e1a414
 http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/147a48b9f36a46879fb368410892b19d/2000.m3u8
 #EXTINF:-1 group-title="创新中国",创新中国6
 http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/2000.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第01集
-http://bf.ahpai.cc/20190116/EJYgwrkM/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第02集
-http://bf.ahpai.cc/20190116/65yVyFWg/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第03集
-http://bf.ahpai.cc/20190116/gGBO7HxA/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第04集
-http://bf.ahpai.cc/20190116/aghub59k/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第05集
-http://bf.ahpai.cc/20190116/vqbSuulV/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第06集
-http://bf.ahpai.cc/20190116/HCS2pT0V/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第07集
-http://bf.ahpai.cc/20190116/uWe1nkFi/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第08集
-http://bf.ahpai.cc/20190116/P5wyPb1A/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第09集
-http://bf.ahpai.cc/20190116/XcK59u11/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第10集
-http://bf.ahpai.cc/20190116/lHydurrm/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第11集
-http://bf.ahpai.cc/20190116/GnmXw8gQ/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第12集
-http://bf.ahpai.cc/20190116/TWUmUjzA/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第13集
-http://bf.ahpai.cc/20190116/c1sME4RO/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第14集
-http://bf.ahpai.cc/20190116/oGM9wAR9/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第15集
-http://bf.ahpai.cc/20190116/3hTG2oY1/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第16集
-http://bf.ahpai.cc/20190116/fB9zS3f3/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第17集
-http://bf.ahpai.cc/20190116/ywdOjszh/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第18集
-http://bf.ahpai.cc/20190116/fsarwlhb/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第19集
-http://bf.ahpai.cc/20190116/RqH4qG14/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第20集
-http://bf.ahpai.cc/20190116/KR4Uwn3Q/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第21集
-http://bf.ahpai.cc/20190116/KJHeQNQ0/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第22集
-http://bf.ahpai.cc/20190116/UN3kC6QM/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第23集
-http://bf.ahpai.cc/20190116/S5nS0zMp/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第24集
-http://bf2.ahpai.cc/20190117/q66gF86u/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第25集
-http://bf.ahpai.cc/20190116/r9X2U5fW/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第26集
-http://bf.ahpai.cc/20190116/cQGNkLIi/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第27集
-http://bf.ahpai.cc/20190116/D1zjXxgr/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第28集
-http://bf.ahpai.cc/20190116/mt8TLHsl/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第29集
-http://bf.ahpai.cc/20190116/ftkQtIJz/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第30集
-http://bf.ahpai.cc/20190116/lIKuALuY/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第01集
-http://bf.ahpai.cc/20190116/5ccx4Uo5/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第02集
-http://bf.ahpai.cc/20190116/0mdgIlHB/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第03集
-http://bf.ahpai.cc/20190116/m2QtqlHz/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第04集
-http://bf.ahpai.cc/20190116/yh5mEu0u/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第05集
-http://bf.ahpai.cc/20190116/HMpeXzmx/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第06集
-http://bf.ahpai.cc/20190116/jccr71N0/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第07集
-http://bf.ahpai.cc/20190116/aVvx4hj4/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第08集
-http://bf.ahpai.cc/20190116/RlqQBXRZ/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第09集
-http://bf.ahpai.cc/20190116/Z6zovEOY/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第10集
-http://bf.ahpai.cc/20190116/iMeGxrnN/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第11集
-http://bf.ahpai.cc/20190116/T8GVwRRz/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第12集
-http://bf.ahpai.cc/20190116/T2KWtYg6/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第13集
-http://bf.ahpai.cc/20190116/h8BPVF1p/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第14集
-http://bf.ahpai.cc/20190116/TY7ks0ld/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第15集
-http://bf.ahpai.cc/20190116/EVAfFjis/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第16集
-http://bf.ahpai.cc/20190116/bF3X5z0d/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第17集
-http://bf.ahpai.cc/20190116/D8SCB827/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第18集
-http://bf.ahpai.cc/20190116/ctgIgsqb/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第19集
-http://bf.ahpai.cc/20190116/1qi27zSo/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第20集
-http://bf.ahpai.cc/20190116/TQ25ENvR/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第21集
-http://bf.ahpai.cc/20190116/IQVDUCq7/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第22集
-http://bf.ahpai.cc/20190116/VeGVXmsr/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第23集
-http://bf.ahpai.cc/20190116/6H2E9San/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第24集
-http://bf.ahpai.cc/20190116/eTWJe5vQ/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第25集
-http://bf.ahpai.cc/20190116/yBnXFBwY/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第26集
-http://bf.ahpai.cc/20190116/0Q4DDUag/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第27集
-http://bf.ahpai.cc/20190116/L8Kycax0/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第28集
-http://bf.ahpai.cc/20190116/q3CTXzaS/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第29集
-http://bf.ahpai.cc/20190116/9aQKdLSc/index.m3u8
-#EXTINF:-1 group-title="乡村爱情9",第30集
-http://bf.ahpai.cc/20190116/iZDSoRWp/index.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第1集
-http://gncdn.wb699.com/ppvod/383D47013EAFBA5F92DF86DBC04E4F62.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第2集
-http://gncdn.wb699.com/ppvod/6D13CFFBC898BEEBE357D104735DB704.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第3集
-http://gncdn.wb699.com/ppvod/93BF72CE8C70E93030E0F697E3879D61.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第4集
-http://gncdn.wb699.com/ppvod/84528E86F1EFC62E1E8CD6147440103C.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第5集
-http://gncdn.wb699.com/ppvod/EB6DC7BDCDB8F7C8ACF12709F1A19C3C.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第6集
-http://gncdn.wb699.com/ppvod/BA1744168DA7E29BD00E167859A76AE4.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第7集
-http://gncdn.wb699.com/ppvod/1EE9E5B41A2225B1E7EFEBAF2E7AF512.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第8集
-http://gncdn.wb699.com/ppvod/2E58761C446D5C6B2BCEF623AD872819.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第9集
-http://gncdn.wb699.com/ppvod/CDE9BAA015E81B91422109A1F60EBFF2.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第10集
-http://gncdn.wb699.com/ppvod/12225BA1AC12BC7EB584516C6551E0BE.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第11集
-http://gncdn.wb699.com/ppvod/CF781B7EA00AB5C2DB07398E794DAEC2.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第12集
-http://gncdn.wb699.com/ppvod/7DEDD00BF9EAE797016A78A86FE93033.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第13集
-http://gncdn.wb699.com/ppvod/AFECF148DB45B317238932C6A33AE9C9.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第14集
-http://gncdn.wb699.com/ppvod/20A5B5D951F4B5C2559CF778E701EA2F.m3u8
-#EXTINF:-1 group-title="乡村爱情10",第15集
-http://gncdn.wb699.com/ppvod/D349ABD831D6D4F9749D9B0B29CEB3C5.m3u8
 #EXTINF:-1 group-title="与全世界做生意",第一集 与世界的距离
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/68b8a8f08ab547d8868b5ac7e6e0b045/850.m3u8
 #EXTINF:-1 group-title="与全世界做生意",第二集 去远方
@@ -1449,5 +1236,463 @@ http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/d54b29e1abeb4da2
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/366785819a004123a8a404a6058e824a/850.m3u8
 #EXTINF:-1 group-title="寻味顺德",第三集 美味相传
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/5717e7fdbdb3485da0f5b2b368b8422d/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190721 千城百味（二十一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9ccfa384b5644a00a635227dc0d2be7b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190720 千城百味（二十）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/137b3796c496476f9acdb3db7c548121/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190712 千城百味（十八）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/62558ce8741640738ee6e0d4c9d5da5f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190713 千城百味（十九）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/baf37bbb941b4d2994f67f9f38b42116/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190711 千城百味（十七）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b740aed3041445619e16fee9b15568a0/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190710 千城百味（十六）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2e0fbf33c796469ba386368bf7d3c467/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190709 千城百味（十五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d84ca31ef70b4ff08558ef3ffa64b36e/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190708 千城百味（十四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/28ceb05a8e094d8b819f3a90f01b278f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190707 千城百味（十三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fcd11269753b403584ee8b05d1d19bb8/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190706 千城百味（十二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/708893714f524f3ab54d8d6a9c9aab25/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190705 千城百味（十一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d43f37031bba45d5bab8ce0732200baa/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190704 千城百味（十）丰收宴
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f39c155cc8d046e49ab7034be55f7911/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190703 千城百味（九）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e68e59dee61d44fe99e6661edd53e08f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190702 千城百味（八）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/632e462bf090470e93538d6dec5f8f8a/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190701 千城百味（七）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/15b12fdb5efb4cef8c00d38034e72930/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190630 千城百味（六）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7c614abedcfe442e9d8962201a3ec393/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190629 千城百味（五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9f5761c88e6e4f7fb716160ccac7ae15/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190628 千城百味（四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a6cde4d620c742daa2cd0940a07b7bfd/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190627 千城百匠（十六）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/930a24bd4df6442f8174ebe3c4a864e3/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190626 千城百匠（十五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ee925ca80577458a871b030aad9cd544/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190625 千城百匠（十四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/38d37ef3aaee47bbb36a5f26a290c59b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190624 千城百匠（十三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/80ec257ba21f4f90a107dea451ef11ac/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190623 千城百匠（十二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8de2d32984ef478084f8861682a0fecb/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190622 千城百匠（十一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c6b62c3b98614f58a571213575b65600/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190621 千城百匠（十）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e6c7863518b84a8f8d2f14b69bf8d13c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190620 千城百匠（九）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2091c928e6944318b0879f90f73e447d/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190619 大国海图-汪大渊的海上传奇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7a1aca17aed14bb39e2021ccd25b7868/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190618 黄岩青瓷寻踪记
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/93597a8e641343db854fcd4b46398780/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190721 千城百味（二十一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9ccfa384b5644a00a635227dc0d2be7b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190720 千城百味（二十）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/137b3796c496476f9acdb3db7c548121/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190712 千城百味（十八）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/62558ce8741640738ee6e0d4c9d5da5f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190713 千城百味（十九）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/baf37bbb941b4d2994f67f9f38b42116/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190711 千城百味（十七）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b740aed3041445619e16fee9b15568a0/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190710 千城百味（十六）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2e0fbf33c796469ba386368bf7d3c467/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190709 千城百味（十五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d84ca31ef70b4ff08558ef3ffa64b36e/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190708 千城百味（十四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/28ceb05a8e094d8b819f3a90f01b278f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190707 千城百味（十三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fcd11269753b403584ee8b05d1d19bb8/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190706 千城百味（十二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/708893714f524f3ab54d8d6a9c9aab25/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190705 千城百味（十一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d43f37031bba45d5bab8ce0732200baa/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190704 千城百味（十）丰收宴
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f39c155cc8d046e49ab7034be55f7911/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190703 千城百味（九）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e68e59dee61d44fe99e6661edd53e08f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190702 千城百味（八）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/632e462bf090470e93538d6dec5f8f8a/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190701 千城百味（七）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/15b12fdb5efb4cef8c00d38034e72930/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190630 千城百味（六）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7c614abedcfe442e9d8962201a3ec393/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190629 千城百味（五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9f5761c88e6e4f7fb716160ccac7ae15/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190628 千城百味（四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a6cde4d620c742daa2cd0940a07b7bfd/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190627 千城百匠（十六）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/930a24bd4df6442f8174ebe3c4a864e3/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190626 千城百匠（十五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ee925ca80577458a871b030aad9cd544/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190625 千城百匠（十四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/38d37ef3aaee47bbb36a5f26a290c59b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190624 千城百匠（十三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/80ec257ba21f4f90a107dea451ef11ac/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190623 千城百匠（十二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8de2d32984ef478084f8861682a0fecb/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190622 千城百匠（十一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c6b62c3b98614f58a571213575b65600/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190621 千城百匠（十）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e6c7863518b84a8f8d2f14b69bf8d13c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190620 千城百匠（九）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2091c928e6944318b0879f90f73e447d/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190619 大国海图-汪大渊的海上传奇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7a1aca17aed14bb39e2021ccd25b7868/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190618 黄岩青瓷寻踪记
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/93597a8e641343db854fcd4b46398780/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190613 城洋青铜器之谜
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e38fdb0db268481c812520605025564e/850.m3u8
+#EXTINF:-1 group-title="探索发现",《食不厌精》第一季 20190612 琼中金鸡宴
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/883074fe300445db90e2852f584c777c/850.m3u8
+#EXTINF:-1 group-title="探索发现",《食不厌精》第一季 20190611 点精知好味
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a852c91c86d845eba04fa03326f90cf6/850.m3u8
+#EXTINF:-1 group-title="探索发现",《食不厌精》第一季 20190610 麻辣话江湖
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d9521bdfea3249b5b2656766456f6abd/850.m3u8
+#EXTINF:-1 group-title="探索发现",《食不厌精》第一季 20190609 金汤烹玉线
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d649311f887741ae8eaec7101fed6d33/850.m3u8
+#EXTINF:-1 group-title="探索发现",《食不厌精》第一季 20190608 红炉炙玉鸭
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ecc6c813729046dca42c59055999c3ea/850.m3u8
+#EXTINF:-1 group-title="探索发现",《食不厌精》第一季 20190607 锅中有乾坤
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/aa14a23a9267413b84ddf3b6b66d0145/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190606 千城百匠（八）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7036e6a2be394f768fbc12a992fa4efd/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190605 千城百匠（七）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/57adf330ae714d5a8626d5d6b0b18eab/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190604 千城百匠（六）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f88a42ef4eca44b4af6a73b1affb1439/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190603 千城百匠（五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7e7378019cef47a89312c6b63959540b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190603 手艺——巧手奇雕
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d2607aa49e954359a3858957c8acbb2c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190602 千城百匠（四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4274db11580840aa933fd84414d6ea46/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190602 手艺——鲁班巧艺
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/90ad1da39fef4d1c80639b124c23868c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190601 千城百匠（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/44d2a373f33b4b71950d3b8e20def95f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190531 千城百匠（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3c080ccf178941239aad744ef6ae36f4/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190530 千城百匠（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7c6069cb51f241c9bef05fa12457a3a2/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190528 手艺——香江叹茶
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/63006a732ef84feead73bc2af458f0e4/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190527 手艺——霓裳羽衣
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3d3d3ac3f46243e394c7fe19e65d3e83/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190516 天童寺（下） 延绵
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5d6f3e60122b45a7bd0e6fbda245c337/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190515 天童寺（上） 传承
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9b5105d1bd854f4fb2583d3b177ee076/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190514 海口百年（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/812c2dce93a94409b9de42652f080d0e/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190513 海口百年（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cf53729b245a424ca259cc8868e65283/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190504 茶和天下（四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ebd5e7699cf04ec4af9362b856a6f802/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190503 茶和天下（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/db5c06f96af148378b7140f274ff98fa/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190502 茶和天下（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/184f15c800b5422db49bfc367f084717/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190501 茶和天下（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/443c0230005141bc8c7be5e385898ef3/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190425 铜壶的秘密
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1eed395d574d442497d063a76be0502a/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190419 黔茶（二） 茶事沧桑
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6d62e06ddd7e4d3f85cc21d6fdbe849a/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190420 黔茶（三） 云雾梦想
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/dd019f0ae6034df0b5aa2aa66d32f176/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190418 黔茶（一）天地造化
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cadc8ff1b2fe4b32b7c13ddc81eec189/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190417 锦绣
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f384d6f6e77a437092277ae356d45a0b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190416 书香
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/222afe8c12ed449eaf7435f5be7e02ea/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190415 千城百味（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a99bb0f92d734f41bf536795027c7f65/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190414 千城百味（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/df46d60966914316baf792dfb5bfae48/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190413 千城百味（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5e64aed349474a4280b78c8d10221420/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190412 食之有味（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e73c8059babe47cd983851c82250b85b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190411 食之有味（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b8847af201fe480d9d71f943faf912b0/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190408 桂平味道（三） 水中的厚赠
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7d457212a3c64f87a7ebc5620c8daaa0/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190407 桂平味道（二） 大山的恩赐
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e8c3d2183a56448a85399123a66116a7/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190406 桂平味道（一）记忆的传承
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/48e95bc75b2b4fdd9d621d1a0f5dea98/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190330 无肉不欢（四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/691aba28d8fa4a8e819a0063c9b3f90f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190329 无肉不欢（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a5a4333fa7a54810bda4c1e5b66677a0/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190328 无肉不欢（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6116180965804414b792aabfe4efeb0c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190327 无肉不欢（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/485398c47fe14790973135b8d14e33d4/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190326 主食千变（四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/59b77f0365d34dfdae96431b2ed746aa/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190325 主食千变（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/47202f37a7b74585b76c7fb488040014/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190324 主食千变（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7687ed8529d94b6a9e6eb49fb35ae8c5/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190323 主食千变（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/139701cc1f544b1683edcf281900dffd/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190322 守望家风（五）传承
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7e65d4df0f3c4fcca6d8b707becfd21e/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190321 守望家风（四） 孝忠
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/297fdc38fbcd49058e9da5a886148ed3/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190320 守望家风（三） 善仁
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5138a2276f884409851bb6040ebb01ac/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190319 守望家风（二）俭廉
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/67f0a1920f484400b7e1224c9fc97c79/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190318 守望家风（一）家国
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e5e155c6215a438c81a951b9baed973c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190217 天山南北寻味记 第八集
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5d34c3987ef749c393d15f990e25ee11/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190216 天山南北寻味记 第七集
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a38e39f726d644c4b9c166f58fb4f44a/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190215 天山南北寻味记 第六集
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0bd3280fefe44582afd2681be6424047/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190214 天山南北寻味记（五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/35ab665670914cbc969da805b001aed8/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190203 堆花陶艺
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/953fd96458aa4f65b4f2167b83b93582/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190113 江口寻宝记（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7c695950248549cf90c3cdf1cd3882b1/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190112 江口寻宝记（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/af1d09858fd94978a68d84cf43f44f67/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190109 彩云之蓝
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4b219ec625bc4af7a157a7efd0e2b213/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190102 天山南北寻味记 第四集
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ab9e24e83deb406f9226ec97b4fa4d0a/850.m3u8
+#EXTINF:-1 group-title="探索发现",20190101 天山南北寻味记 第三集
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1fb389c9985e48468889db9d7a1e4d89/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181231 天山南北寻味记 第二集
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e4ffef71e5c0426da496d4cad6b4e2be/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181230 天山南北寻味记 第一集
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ff91d7c3379e486da94376b9feb1ee22/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181210 粉青神韵-南宋官窑
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/93b929454d964b32a5e013aa40bddf53/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181209 手艺 第八季 妙手呈金
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5e73996a203b49bebd44440b2f35d570/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181208 手艺 第八季 妙笔永青
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ace47720f3da4feca5b8a8e4648e1ec4/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181207 手艺 第八季 莞灯千角
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5b7cf54af1ad43c9911ca918d2db484a/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181206 手艺 第八季 香云纱情
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/366683d7461b437f86a46f8b4d3af218/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181205 手艺 第八季 石湾陶塑
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/13a3d6e121ed4791b010ac7b0718b785/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181204 手艺 第八季 雕银点金
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d619538e918c46c392a3c5959300ce60/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181203 手艺 第八季 木雕重彩
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/afe66106dd2d489880a15c972370eb38/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181202 手艺 第八季 干漆夹苎
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7ddf57c1e5af42e9b415e6983b0b9eae/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181201 手艺 第八季 良钢精剪
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/14733b9f4b074c749a643c15c6329d9b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181130 手艺 第八季 檀木骨芯
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8c63fc08605f42ddae91af68e57b40cc/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181129 手艺 第八季 纸织永春
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6705fe58935c420ebcdf95bbad37e16a/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181120 手艺 第八季 建水紫陶
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/09bbd924aeb14724a2b5abdbc0bee94f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181119 手艺 第八季 琼黎藤编
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f10cb9d8ac5e4645b12aa8e01ce17ee7/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181118 手艺 第八季 汉刻漆盒
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/39925a44ff41446fb4782c47c9c3ec1a/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181117 武夷茶人
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6385be118d47414385ceaa8ccc5abfae/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181116 手艺 第八季 霓裳羽衣
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6f7a2c5ec1634ce6979e80afbdac7e16/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181115 手艺 第八季 宫廷秘玩
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0eb20abc140b403c8ee2f22f2de35fa2/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181114 手艺 第八季 读木雕心
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6d6b8b39f0534f648be89d49e0525d58/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181113 手艺 第八季 刻画乾坤
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ad5593adfab64155857dfaf16623468e/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181103 手艺 第八季 枯木逢春
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/764d4bd018bc492a85718ce7adf4b0ac/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181102 手艺 第八季 草原蒙镶
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/099a628c85fb4431aff8a8d1ec02218f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181101 手艺 第八季 砚出端溪
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/89100834f167448382de7c0b6341c6e9/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181031 手艺 第八季 冶家寒刃
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/11ac9223b435428ab481ab8661a6f6ea/850.m3u8
+#EXTINF:-1 group-title="探索发现",20181030 手艺 第八季 八面威风
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3e37bfe9b4014440b7d6900e51e4ac03/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180920 紫砂之路（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9a5ef7b91e6e416ba53506177621ca9b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180919 紫砂之路（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/51ffc3182d244704a109ffb9dbfa5e19/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180914 方圆之锡
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6d5705364c6d4f8cab32e3ea61dacbdd/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180910 山狮江湖
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8c35347902eb40359497f295b1689b6e/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180814 茶道中人
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/898f59e2ed8d4b02a4c15b1ca5299bd8/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180813 旅顺博物馆（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e6d6c1e760db4f399150883786696bcb/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180812 旅顺博物馆（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4e7a5ffd01d346268ac9e7f676315cf0/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180811 新疆味道（续）七
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2d1fc2be0e114c53be57c1a2de68d772/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180810 新疆味道（续）六
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e8af0156863945a399835912f1124180/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180809 新疆味道（续）五
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9c989ebf0aa84ee382a12e7d2cdcf1da/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180808 新疆味道（续）四
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/178a7629ca304dc1a43773d199ab9421/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180807 新疆味道（续）三
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/59ef3b8afd5e428e92bfeafe0804e734/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180806 新疆味道（续）二
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/db2d1dfb3c604fdf8002c3af4fa3406c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180805 新疆味道（续）一
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/864de7358b6940df946e34d370eba9ac/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180802 沉睡的秦人军团（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e5e62cb20fe7477586635b1b680ffb50/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180801 沉睡的秦人军团（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fb40d34fce774b2cbaa4648b99a82a40/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180705 塘溪传奇（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e4367091074847d5acfaacfb913be1fa/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180704 塘溪传奇（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0fa847b2dec24efd8e9420b949269418/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180614 小面寻源（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fd95ed1f9ebf443db18057c62aedd034/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180613 小面寻源（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/95098cb69a1d4d4e97b33f6033d2138c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180611 尧舜之都（五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/53cc7939e16e4d558aac8a46f336c287/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180610 尧舜之都（四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/210369ff94b64255b541e0e4669c0e39/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180609 尧舜之都（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b29baaed6182443093d65f9ed50a57a6/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180608 尧舜之都（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0d39b4b01b5f4bcb967bfcfc57e3b3e9/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180607 尧舜之都（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5a91902ac8df4d1eaf626596d07fa6e7/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180606 新疆味道（六）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/dc86543b29d94cca86334ab907cdc4fc/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180605 新疆味道（五）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6a220a27a2c445f5ba2682adcd3b7c06/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180604 新疆味道（四）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/24f29b5987ce4e0abf8c74e4f97ad4db/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180603 新疆味道（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5a3fe1a16ea540b9b28f8d33225fe05c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180602 新疆味道（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9ad772d69d994c68a6efcda4c0f98671/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180601 新疆味道（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cf90e4019bb245dbbe8876db28c22315/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180531 流浪的大儒（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/280043c8104346ff853eb74b4ef55cd2/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180530 流浪的大儒（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2c98f713a46b4a6c9ce46ad157c0b6d6/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180529 怀素与雁荡山（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d672c8790363418783af469a688cad3c/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180528 怀素与雁荡山（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2a0a21a43c614d4e819556fc9effb1c7/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180524 大蜀道（三）天道
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/68cd15aeebfc471f9a1d5cb989c38c1f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180523 大蜀道（二）神道
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ad562aadeabc411d888d6edc5d93614d/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180522 大蜀道（一）人道
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/de518d52f59745b1a8226406faa50678/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180413 讲究（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2282242452d14228adbecb149246f8bc/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180412 讲究（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/18a7d1a5153b4eb8bf16bd5bfcd28297/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180411 讲究（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/61cfc8786ad444ac815d0f37f1b7ff0f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180403 巴盐传奇（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1c3a14a4b56a4e06aaa716e06bf120ba/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180402 巴盐传奇（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/354222ded9c14a40b7e98223919e4d66/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180321 篾呈心境——竹的故事
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b254d660ae184b529e3514c054dae9e7/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180320 炼物志 金属的故事(四)
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bdf49d08862a49589d82c88c6b6e7c95/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180319 炼物志——金属的故事（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/746d8365589046ca82d8e77175882e64/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180318 炼物志——金属的故事（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0fb0e4c9f1b9484ba13a6f4a2f3a8d98/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180317 炼物志——金属的故事（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7e635f1b06264e978396d1cc39986851/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180316 繁华录——节庆的故事（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d24ebeeb360e4f82ac17187156307c71/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180315 繁华录——节庆的故事（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c863213f48e24da6af4d34b83641aac4/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180314 磁州窑火
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/05e4f84b947f4165b41b2e5dfbc4c079/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180204 隋炀帝皇后凤冠修复纪实（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/59de451d35774f5fac499262cab26511/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180203 隋炀帝皇后凤冠修复纪实（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8465a4202d864a399ed04da2e2bb73e9/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180130 寻味记（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0f41c8a1d5a845f7b99b480fc18f22e1/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180129 寻味记（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/70c9087431fc4484a752f46ad1281e7d/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180128 寻味记（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ee021d929e854386bcdbb91e53d7ccf1/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180127 密室藏珍
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8d252106df294c65b7e90c0e37a667d9/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180120 连环画传奇（三）劲歌
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3d1b03db953047c2b1663507662d419e/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180119 连环画传奇（二）双绝
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cf5890c2827d48f3a82a264eb3a9c173/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180118 连环画传奇（一）新风
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1e304e6470e74505a69899cb3600fd76/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180117 稻米帝国（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/180f2f1c4f9643af99f6b15f492c26a0/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180116 稻米帝国（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d7f31f79d8da4a729ea37c02db566103/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180115 雪山下的精灵
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bf2a47623eed4e86a429a5b52f9b9200/850.m3u8
+#EXTINF:-1 group-title="探索发现",20180114 越冬
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0a7bf8ca99b64f3f9b8946b5e31dc6e3/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171223 蔡廷锴（三）风雨同舟
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/317feaaf52ee4ecb92b58eb8e0529991/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171222 蔡廷锴（二）血战淞沪
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2e9f80e3d2d14179ae4f867b8854bdf3/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171221 蔡廷锴（一）爱国爱家
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/cb243a6813474c9d8321f1256e5459dd/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171220 寻找手艺（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/49ab1c5eb99b4e9a9048b985a2584bf0/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171216 国家大剧院（上）不忘初心·艺术为民
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0e9eca90d7a241aabb6509a258eefca7/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171217 国家大剧院（下）中国声音·世界表达
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a25434f513014433827e7f91f9bc35a0/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171219 寻找手艺（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a2869a543da945909a8911cb9e4cf9e2/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171218 寻找手艺（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/7eac8f0b6de74d3ba6d2cadff2a4fce8/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171215 三星堆密码
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1a6d7f89450d4ef1b47f0cb7204acf78/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171204 行走的屋舍——新昌砖雕
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9e48f2a8219943989995803a8f690037/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171203 大同煤矿遗骨调查（三）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4be3dc30db09412882e0c19d4a24426b/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171202 大同煤矿遗骨调查（二）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2fee4dd854d045ebbdd781e5e6bd0b40/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171201 大同煤矿遗骨调查（一）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e85149077a3e4133945f5951dccfdf5f/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171130 美岱召壁画之谜（下）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/8263552123d946e7bb38ed2bfc196c78/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171129 美岱召壁画之谜（上）
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/137debb0bbe74fd5badfff3cd5c7a2c2/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171128 通往欧洲的宜兴紫砂
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fd986745b96945d0a4cdee80117116a8/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171127 老街铜匠
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/56b299dce05e4af8a1004aa229c46cf7/850.m3u8
+#EXTINF:-1 group-title="探索发现",20171115 雪域丹青-唐卡的故事
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/00c382fed9d34c04b28f7da75829362b/850.m3u8
 
 
