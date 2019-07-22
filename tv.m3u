@@ -8,7 +8,11 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 #EXTINF:-1 group-title="电视节目",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV老故事
-http://ott.js.chinamobile.com/PLTV/4/224/3221227043/index.m3u8
+http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
+#EXTINF:-1 group-title="电视节目",CCTV发现之旅
+http://223.110.241.204:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
+#EXTINF:-1 group-title="电视节目",农林卫视
+http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 #EXTINF:-1 group-title="电视节目",老故事
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000624/index.m3u8
 #EXTINF:-1 group-title="电视节目",央视文化精品
@@ -187,6 +191,8 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000614/index.m3u8
 #EXTINF:-1 group-title="电视节目",女性时尚
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000616/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV女性时尚
+http://223.110.241.204:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
 #EXTINF:-1 group-title="电视节目",风云剧场
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000617/index.m3u8
 #EXTINF:-1 group-title="电视节目",风云足球
