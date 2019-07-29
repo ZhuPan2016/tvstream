@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="电视节目",CCTV-1综合
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000001/index.m3u8
-#EXTINF:-1 group-title="电视节目",爹妈满院1
-https://56.com-t-56.com/20190226/7010_137c452b/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000051/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东齐鲁
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8
 #EXTINF:-1 group-title="电视节目",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 group-title="电视节目",台湾-民视新闻台
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV老故事
 http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 #EXTINF:-1 group-title="电视节目",CCTV发现之旅
@@ -75,8 +75,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000024/index.m3u8
 #EXTINF:-1 group-title="电视节目",广东卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000025/index.m3u8
-#EXTINF:-1 group-title="电视节目备用",广东卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
 #EXTINF:-1 group-title="电视节目",辽宁卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000026/index.m3u8
 #EXTINF:-1 group-title="电视节目",黑龙江卫视
@@ -295,6 +293,22 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000059/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东国际
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000060/index.m3u8
+#EXTINF:-1 group-title="电视节目",乒羽先锋
+http://183.215.116.144:6610/180000001001/00000000000000020000000000182319/main.m3u8??
+#EXTINF:-1 group-title="电视节目",湖南电影
+http://183.215.116.144:6610/180000001001/00000000000000020000000000182320/main.m3u8??
+#EXTINF:-1 group-title="电视节目",湖南娱乐
+http://183.215.116.144:6610/180000001001/00000000000000020000000000182313/main.m3u8??
+#EXTINF:-1 group-title="电视节目",湖南电视剧
+http://183.215.116.144:6610/180000001001/00000000000000020000000000182309/main.m3u8??
+#EXTINF:-1 group-title="电视节目",湖南都市
+http://183.215.116.144:6610/180000001001/00000000000000020000000000182308/main.m3u8??
+#EXTINF:-1 group-title="电视节目",南方卫视
+http://183.215.116.144:6610/180000001001/00000000000000020000000000182538/main.m3u8??
+#EXTINF:-1 group-title="电视节目",长沙新闻
+http://183.215.116.144:6610/180000001001/00000000000000020000000000182539/main.m3u8??
+#EXTINF:-1 group-title="电视节目",长沙政法
+http://183.215.116.144:6610/180000001001/00000000000000020000000000182540/main.m3u8??
 #EXTINF:-1 group-title="电视节目",济南新闻综合
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000061/index.m3u8
 #EXTINF:-1 group-title="电视节目",济南都市
@@ -378,6 +392,18 @@ http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/9fa825f6b2e04973
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/419d14a3b22f41e088f3b9f188f2a58b/850.m3u8
 #EXTINF:-1 group-title="与全世界做生意",第七集 未来的利润
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/054d894000c34d10a22dddd5da40f277/850.m3u8
+#EXTINF:-1 group-title="三国的世界",第一集 大江东去意未销
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/30d2f0ec3e2944bd91ecc9962dae8dbd/850.m3u8
+#EXTINF:-1 group-title="三国的世界",第二集 星落秋风五丈原
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/667e568f096a446db481583e24f80914/850.m3u8
+#EXTINF:-1 group-title="三国的世界",第三集 横槊悲歌观沧海
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c8b9afe612014590a33815b69c99beb4/850.m3u8
+#EXTINF:-1 group-title="三国的世界",第四集 义薄云天垂九州
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/16e48dd430f343cf9e7981ab79e20f8f/850.m3u8
+#EXTINF:-1 group-title="三国的世界",第五集 一江南北真豪杰
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e3bfcb80280b4a2dad2c41128716929b/850.m3u8
+#EXTINF:-1 group-title="三国的世界",第六集 良史演义共三国
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5e423fb5c8764adaae2bd9ee7a488817/850.m3u8
 #EXTINF:-1 group-title="文明密码",20180723喀什手工技艺
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/dc163c636c8e46b6b22a5df6a04adfe4/850.m3u8
 #EXTINF:-1 group-title="文明密码",20180716美丽万宁我的家
@@ -1702,5 +1728,4 @@ http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fd986745b96945d0a4cdee8
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/56b299dce05e4af8a1004aa229c46cf7/850.m3u8
 #EXTINF:-1 group-title="探索发现",20171115 雪域丹青-唐卡的故事
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/00c382fed9d34c04b28f7da75829362b/850.m3u8
-
 
