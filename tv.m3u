@@ -33,8 +33,10 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000005/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-6电影
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000006/index.m3u8
-#EXTINF:-1 group-title="电视节目",CCTV-7军事与农业
+#EXTINF:-1 group-title="电视节目",CCTV-7国防军事
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000007/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV-17农业农村
+https://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-8电视剧
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-9记录
