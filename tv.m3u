@@ -247,10 +247,6 @@ http://117.156.28.119/270000001111/1110000051/index.m3u8
 http://117.156.28.119/270000001111/1110000055/index.m3u8
 #EXTINF:-1 group-title="电视节目",IPTV-8+
 http://117.156.28.119/270000001111/1110000057/index.m3u8
-#EXTINF:-1 group-title="电视节目",IPTV-魅力时尚
-http://223.99.189.66:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000609/index.m3u8
-#EXTINF:-1 group-title="电视节目",IPTV-魅力时尚
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000609/index.m3u8
 #EXTINF:-1 group-title="电视节目",海看生活
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000202/index.m3u8
 #EXTINF:-1 group-title="电视节目",海看教育
@@ -271,8 +267,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000408/index.m3u8
 #EXTINF:-1 group-title="电视节目",金鹰卡通
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000047/index.m3u8
-#EXTINF:-1 group-title="电视节目备用",金鹰卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 group-title="电视节目",卡酷少儿
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000048/index.m3u8
 #EXTINF:-1 group-title="电视节目",优漫卡通
