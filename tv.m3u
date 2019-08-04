@@ -7,8 +7,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8
 #EXTINF:-1 group-title="电视节目",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 group-title="电视节目",台湾-民视新闻台
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV老故事
 http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 #EXTINF:-1 group-title="电视节目",CCTV发现之旅
@@ -131,6 +129,8 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 http://stream.mastvnet.com/MASTV/playlist.m3u8
 #EXTINF:-1 group-title="电视节目",澳门卫视
 http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1 group-title="电视节目",台湾-民视新闻台
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 group-title="电视节目",金鹰纪实
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182315/main.m3u8??
 #EXTINF:-1 group-title="电视节目",全纪实
