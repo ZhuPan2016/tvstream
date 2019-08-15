@@ -13,10 +13,6 @@ http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 http://223.110.241.204:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
 #EXTINF:-1 group-title="电视节目",农林卫视
 http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
-#EXTINF:-1 group-title="电视节目",老故事
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000624/index.m3u8
-#EXTINF:-1 group-title="电视节目",央视文化精品
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000621/index.m3u8
 #EXTINF:-1 group-title="电视节目",环球电视台
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 #EXTINF:-1 group-title="电视节目",世界地理
@@ -55,6 +51,60 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182561/main.m3u8??
 #EXTINF:-1 group-title="电视节目",山东教育
 http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV世界地理
+http://39.135.15.210:6610/PLTV/88888888/224/3221225733/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV卫生健康
+http://39.135.15.210:6610/PLTV/88888888/224/3221225663/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV电视指南
+http://39.135.15.210:6610/PLTV/88888888/224/3221225673/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV高尔夫网球
+http://39.135.15.210:6610/PLTV/88888888/224/3221225674/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV央视文化精品
+http://39.135.15.210:6610/PLTV/88888888/224/3221225675/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV风云音乐
+http://39.135.15.210:6610/PLTV/88888888/224/3221225698/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV兵器科技
+http://39.135.15.210:6610/PLTV/88888888/224/3221225676/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV老故事
+http://39.135.15.210:6610/PLTV/88888888/224/3221225677/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV新科动漫
+http://39.135.15.210:6610/PLTV/88888888/224/3221225678/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV女性时尚
+http://39.135.15.210:6610/PLTV/88888888/224/3221225699/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV风云剧场
+http://39.135.15.210:6610/PLTV/88888888/224/3221225700/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV第一剧场
+http://39.135.15.210:6610/PLTV/88888888/224/3221225702/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV风云足球
+http://39.135.15.210:6610/PLTV/88888888/224/3221225734/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CCTV怀旧剧场
+http://39.135.15.210:6610/PLTV/88888888/224/3221225765/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",CETV早期教育
+http://39.135.15.210:6610/PLTV/88888888/224/3221225679/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",环球奇观-g
+http://39.135.15.210:6610/PLTV/88888888/224/3221225681/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",靓妆-g
+http://39.135.15.210:6610/PLTV/88888888/224/3221225680/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",梨园频道
+http://39.135.15.210:6610/PLTV/88888888/224/3221225701/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",未知-g
+http://39.135.15.210:6610/PLTV/88888888/224/3221225683/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",武术世界
+http://39.135.15.210:6610/PLTV/88888888/224/3221225691/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",文物宝库
+http://39.135.15.210:6610/PLTV/88888888/224/3221225766/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",天元围棋-g
+http://39.135.15.210:6610/PLTV/88888888/224/3221225714/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",彩民在线-g
+http://39.135.15.210:6610/PLTV/88888888/224/3221225724/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",DV生活
+http://39.135.15.210:6610/PLTV/88888888/224/3221225735/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",重庆汽摩
+http://39.135.15.210:6610/PLTV/88888888/224/3221225736/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",英语辅导
+http://39.135.15.210:6610/PLTV/88888888/224/3221225737/1/index.m3u8
+#EXTINF:-1 group-title="电视节目",广东南方卫视
+http://39.135.15.210:6610/PLTV/88888888/224/3221225738/1/index.m3u8
 #EXTINF:-1 group-title="电视节目",浙江卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000016/index.m3u8
 #EXTINF:-1 group-title="电视节目",湖南卫视
@@ -189,6 +239,10 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000612/index.m3u8
 #EXTINF:-1 group-title="电视节目",风云音乐
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8
+#EXTINF:-1 group-title="电视节目",老故事
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000624/index.m3u8
+#EXTINF:-1 group-title="电视节目",央视文化精品
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000621/index.m3u8
 #EXTINF:-1 group-title="电视节目",第一剧场
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000614/index.m3u8
 #EXTINF:-1 group-title="电视节目",女性时尚
