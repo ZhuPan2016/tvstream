@@ -38,7 +38,7 @@ http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-8电视剧
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-9记录
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000009/index.m3u8
+http://cctvcnch5c.v.wscdns.com/live/cctvjilu_2/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-10科教
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000010/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-12社会与法
