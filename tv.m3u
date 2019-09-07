@@ -19,8 +19,6 @@ http://39.135.15.210:6610/PLTV/88888888/224/3221225675/1/index.m3u8
 http://39.135.15.210:6610/PLTV/88888888/224/3221225733/1/index.m3u8
 #EXTINF:-1 group-title="电视节目",IPTV相声小品
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000606/index.m3u8
-#EXTINF:-1 group-title="电视节目",海看综艺
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000400/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV2
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225919/1.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-3综艺
@@ -62,7 +60,7 @@ http://39.135.15.210:6610/PLTV/88888888/224/3221225677/1/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-5+HD
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182561/main.m3u8??
 #EXTINF:-1 group-title="电视节目",山东教育
-http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+http://39.135.15.210:6610/PLTV/88888888/224/3221225764/1/index.m3u8
 #EXTINF:-1 group-title="电视节目",金鹰纪实
 http://183.215.116.134:6410/180000001001/00000000000000020000000000182315/main.m3u8??
 #EXTINF:-1 group-title="电视节目",全纪实
@@ -251,6 +249,8 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000606/index.m3u8
 #EXTINF:-1 group-title="电视节目",IPTV热播剧场
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000608/index.m3u8
+#EXTINF:-1 group-title="电视节目",海看综艺
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000400/index.m3u8
 #EXTINF:-1 group-title="电视节目",乒羽先锋
 http://183.215.116.144:6610/180000001001/00000000000000020000000000182319/main.m3u8??
 #EXTINF:-1 group-title="电视节目",湖南电影
@@ -1629,6 +1629,8 @@ http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fd986745b96945d0a4cdee8
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/56b299dce05e4af8a1004aa229c46cf7/850.m3u8
 #EXTINF:-1 group-title="探索发现",20171115 雪域丹青-唐卡的故事
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/00c382fed9d34c04b28f7da75829362b/850.m3u8
+#EXTINF:-1 group-title="深度国际",20190907 亚马孙雨林大火烧出了什么
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/37d2fe7d6c5c4f6ba30b0c5fc9ff6572/850.m3u8
 #EXTINF:-1 group-title="深度国际",20190831 美国算计 买卖格陵兰岛
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c83886681af94b99b397f95db3dd9b44/850.m3u8
 #EXTINF:-1 group-title="深度国际",20190824 以“汇率操纵”之名 美式话语霸权
@@ -1929,7 +1931,12 @@ http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b1afae61f8a84181be83b5c
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ed4dc1d314d54ad5bcf8ec091ef0269c/850.m3u8
 #EXTINF:-1 group-title="深度国际",20160812 “萨德”：危险的代价
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b568ad6907c6447a8d6f6976db0ade54/850.m3u8
-#EXTINF:-1 group-title="深度国际",20160805 俄土：重修旧好？
+#EXTINF:-1 group-title="中国影像方志",第335集 广东兴宁篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b91f879bd3504dbd9741a0263a2ea05b/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第334集 广西凌云篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3cd7217852a14f4a82c997491a6cea5f/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第333集 内蒙古准格尔篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0ce910a3cb4d434a9cedbefc093e31e4/850.m3u8
 #EXTINF:-1 group-title="中国影像方志",第332集 内蒙古伊金霍洛旗篇
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1c7a3416a67a461abd845ca7c456afd4/850.m3u8
 #EXTINF:-1 group-title="中国影像方志",第331集 广东乐昌篇
@@ -2586,4 +2593,43 @@ http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/34651bfa3d1f421cb298edf
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/107964c07d6f47c3a3a23394ef50bcda/850.m3u8
 #EXTINF:-1 group-title="中国影像方志",第1集 浙江安吉篇
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3bd5b4baf0594c40a666f25c2cf8ce3e/850.m3u8
-
+#EXTINF:-1 group-title="古兵器揭秘",第一集 战车 戈
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/6de0b3463e3f496e8237e440d30d0856/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二集 弩
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0b2bec9809404c32ad0498fef3a97196/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第三集 陌刀
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/aa2b827117b944c0be1e9d923a3f4e2c/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第四集 铁骑锋芒
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b77d67b856b648f4ba2c563cc914822c/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第五集 神机枪炮
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1fffbd22233448f0a637aaa5d5c1407e/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第六集 铁戟·钩镶
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/776f42bce5d24afc8bc884fc82297881/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第七集 槊·明光铠
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/35437e10b098445fb57194a9067a863b/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第八集 神臂弓·铁浮屠
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2576dbf6adb24670a5e8fa01e27b7670/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第九集 打击兵器·冷锻甲
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/493e401d68084b5aa8c3bee76f67a676/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第十集 狼筅·倭刀
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1ce808c9e54840e598532864a1657b14/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二季 第一集 剑
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ed7729dce0c84fda8bf3baaa29212cc5/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二季 第二集 环首刀
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/34902112247f4c828ec1faa0024995a0/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二季 第三集 唐横刀
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/61356a86922d40fea8ae9e0ee611cacc/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二季 第四集 弓
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a7c24345c9cc4f4caeeedb848c294248/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二季 第五集 枪
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f5940e9bcb3e4c819904af65b60a7a21/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二季 第六集 三弓床弩
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/3717c357a3a544f490b0c0bee740557f/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第七集 火攻利器
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2770ced2893f4d76a8d4310fb2efeebb/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二季 第八集 梨花枪
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d1f664b9e1a245ceb0bf6e54537b003c/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二季 第九集 一窝蜂
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9f9f4851eb6d4dacadff43ecd09048b6/850.m3u8
+#EXTINF:-1 group-title="古兵器揭秘",第二季 第十集 噜嘧铳
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a834609fac034330aabf2c20ce495120/850.m3u8
