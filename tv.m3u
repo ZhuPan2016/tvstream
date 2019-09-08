@@ -1931,6 +1931,8 @@ http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b1afae61f8a84181be83b5c
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ed4dc1d314d54ad5bcf8ec091ef0269c/850.m3u8
 #EXTINF:-1 group-title="深度国际",20160812 “萨德”：危险的代价
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b568ad6907c6447a8d6f6976db0ade54/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第336集 山东费县篇
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/1d727eaef20a45d68eb68432d2358ba6/850.m3u8
 #EXTINF:-1 group-title="中国影像方志",第335集 广东兴宁篇
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b91f879bd3504dbd9741a0263a2ea05b/850.m3u8
 #EXTINF:-1 group-title="中国影像方志",第334集 广西凌云篇
