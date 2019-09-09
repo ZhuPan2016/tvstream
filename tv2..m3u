@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 group-title="高清电视节目",CCTV1 
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",CCTV2
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",CCTV4
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",CCTV7 
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",CCTV5+
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",CCTV9
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",CCTV10
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",CCTV12
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",CCTV14
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",CCTV17
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",山东卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",江苏卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",湖南卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",天津卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",安徽卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",河北卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",浙江卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",贵州卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",黑龙江卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",重庆卫视
+http://112.50.243.10/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1 group-title="高清电视节目",广东卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",深圳卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",东方卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",东南卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",湖北卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",辽宁卫视
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",山东教育
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",山东齐鲁
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",山东公共
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",山东体育
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",山东齐鲁
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 group-title="高清电视节目",上海纪实
+http://112.50.243.10/PLTV/88888888/224/3221225946/1.m3u8
+#EXTINF:-1 group-title="高清电视节目",Newtv健康有约
+http://112.50.243.10/PLTV/88888888/224/3221225883/1.m3u8
+#EXTINF:-1 group-title="高清电视节目",Newtv军事评论
+http://112.50.243.10/PLTV/88888888/224/3221225890/1.m3u8
+#EXTINF:-1 group-title="高清电视节目",Newtv精品体育
+http://112.50.243.10/PLTV/88888888/224/3221225886/1.m3u8
