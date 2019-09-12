@@ -1931,6 +1931,16 @@ http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b1afae61f8a84181be83b5c
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ed4dc1d314d54ad5bcf8ec091ef0269c/850.m3u8
 #EXTINF:-1 group-title="深度国际",20160812 “萨德”：危险的代价
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b568ad6907c6447a8d6f6976db0ade54/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第341集 江西上饶篇
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/6bfed79942f54bd7a364613d6c605658/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第340集 广东潮安篇
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/54da629d7cfe4c90bbcdb4f49ea9b8ff/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第339集 江西信丰篇
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/5f76513bbc2849db8f72d69c7eaf77b6/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第338集 山西徐清篇
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/c74be4b5573541439fd8ae0dbbd6dd9a/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第337集 山西祁县篇
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/a1517149ab6143e8a0376dde0798f23d/850.m3u8
 #EXTINF:-1 group-title="中国影像方志",第336集 山东费县篇
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/1d727eaef20a45d68eb68432d2358ba6/850.m3u8
 #EXTINF:-1 group-title="中国影像方志",第335集 广东兴宁篇
