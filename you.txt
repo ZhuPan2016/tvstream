@@ -21,6 +21,7 @@ CCTV4,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081
 CCTV5,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000005/index.m3u8
 CCTV6,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000006/index.m3u8
 CCTV7,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225923/1.m3u8
+CCTV17农村农业,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/3.m3u8
 CCTV17农村农业,http://hbzq.chinashadt.com:1937/live/1012.stream_360p/chunklist_w2066553414.m3u8
 CCTV17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 CCTV8,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
@@ -113,6 +114,7 @@ DV生活,http://39.135.15.210:6610/PLTV/88888888/224/3221225735/1/index.m3u8
 英语辅导,http://39.135.15.210:6610/PLTV/88888888/224/3221225737/1/index.m3u8
 留学世界,http://l.cztvcloud.com/channels/lantian/channel09/360p.m3u8
 广东南方卫视,http://39.135.15.210:6610/PLTV/88888888/224/3221225738/1/index.m3u8
+广东南方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/3.m3u8
 农林卫视-g,http://39.135.15.210:6610/PLTV/88888888/224/3221225696/1/index.m3u8
 江苏卫视,http://111.40.205.70/PLTV/88888888/224/3221225644/index.m3u8
 北京卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225975/1.m3u8
@@ -126,6 +128,8 @@ DV生活,http://39.135.15.210:6610/PLTV/88888888/224/3221225735/1/index.m3u8
 江西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225914/1.m3u8
 安徽卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225915/1.m3u8
 CETV1,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225910/1.m3u8
+CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/3.m3u8
+CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/3.m3u8
 四川卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225935/1.m3u8
 贵州卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225936/1.m3u8
 吉林卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225937/1.m3u8
@@ -134,6 +138,7 @@ CETV1,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225910/1.m3u8
 海南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225941/1.m3u8
 三沙卫视-g,http://39.135.15.210:6610/PLTV/88888888/224/3221225693/1/index.m3u8
 厦门卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225952/1.m3u8
+厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/3.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/playlist.m3u8
 广西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225939/1.m3u8
@@ -142,13 +147,17 @@ CETV1,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225910/1.m3u8
 陕西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225945/1.m3u8
 云南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225946/1.m3u8
 兵团卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225947/1.m3u8
+兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/3.m3u8
 甘肃卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225949/1.m3u8
 宁夏卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225950/1.m3u8
 山西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225951/1.m3u8
 西藏卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225921/1.m3u8
 延边卫视-g,http://39.135.15.210:6610/PLTV/88888888/224/3221225721/1/index.m3u8
+延边卫视-g,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/3.m3u8
+四川康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/3.m3u8
 四川康巴卫视,http://scgctvshow.sctv.com/sdlive/kangba/3.m3u8
 青海安多卫视-g,http://39.135.15.210:6610/PLTV/88888888/224/3221225694/1/index.m3u8
+青海安多卫视-g,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/3.m3u8
 西藏藏语频道-g,http://39.135.15.210:6610/PLTV/88888888/224/3221225697/1/index.m3u8
 山东公共,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000053/index.m3u8
 山东体育,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000057/index.m3u8
