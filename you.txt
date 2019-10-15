@@ -136,7 +136,6 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/3.m3u8
 重庆卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225938/1.m3u8
 河南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225940/1.m3u8
 海南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225941/1.m3u8
-三沙卫视-g,http://39.135.15.210:6610/PLTV/88888888/224/3221225693/1/index.m3u8
 厦门卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225952/1.m3u8
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/3.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
