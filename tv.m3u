@@ -1629,6 +1629,14 @@ http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fd986745b96945d0a4cdee8
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/56b299dce05e4af8a1004aa229c46cf7/850.m3u8
 #EXTINF:-1 group-title="探索发现",20171115 雪域丹青-唐卡的故事
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/00c382fed9d34c04b28f7da75829362b/850.m3u8
+#EXTINF:-1 group-title="深度国际",20191005 启动弹劾总统的背后
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/22bf99f132b34bc28930183180ab1106/850.m3u8
+#EXTINF:-1 group-title="深度国际",20190928 伊朗阅兵 美伊开战在即？
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/4be857e39181488aac5070c916bca3d7/850.m3u8
+#EXTINF:-1 group-title="深度国际",20190921 换俘 俄乌“解冻”信号？
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/e7cd24ad8d6747ca939e067269753d3a/850.m3u8
+#EXTINF:-1 group-title="深度国际",20190914 伊核牌局对赌
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2d155677b91b4d8b85cc0ee15cb9e735/850.m3u8
 #EXTINF:-1 group-title="深度国际",20190907 亚马孙雨林大火烧出了什么
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/37d2fe7d6c5c4f6ba30b0c5fc9ff6572/850.m3u8
 #EXTINF:-1 group-title="深度国际",20190831 美国算计 买卖格陵兰岛
@@ -1931,6 +1939,50 @@ http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b1afae61f8a84181be83b5c
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ed4dc1d314d54ad5bcf8ec091ef0269c/850.m3u8
 #EXTINF:-1 group-title="深度国际",20160812 “萨德”：危险的代价
 http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b568ad6907c6447a8d6f6976db0ade54/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第372集 山东新泰篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/60b659ac58504fb0a883be7ba5ec6486/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第371集 广东仁化篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1433a2265bc240c9867d57474f72802d/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第370集 广东博罗篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1e117f968b2140b69848374af35840b1/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第369集 西藏江孜篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/0a821e61d40c439a86f750a2ed42d460/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第368集 四川宣汉篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/5469356e3c8f4e04a87403e502ba7324/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第367集 甘肃灵台篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f388f74e741d481e860db1b7e77459ae/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第366集 甘肃敦煌篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2a0224b32b30488f862e917d3996ce29/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第365集 黑龙江海林篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/dd2c398779e6486a9c5d72dc9326c9c3/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第364集 贵州赤水篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/aeb0a15b52964d04a03ddb8497a24bb5/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第363集 安徽濉溪篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/23ce9276f6664e7086145f6e13adb1f3/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第362集 浙江余姚篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/40ef8a03afb543a1bb925accdfb49c4a/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第361集 河北怀来篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/ba42778872db4366b98bf04f2d3c1751/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第360集 四川石棉篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/d6629188eade40a58a4b5ea5012bd540/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第359集 湖南湘乡篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/28376efecd174beaae155fdfa1663cce/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第358集 陕西大荔篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1b41935a90374912882d56944c5feacf/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第357集 广东四会篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/9a33c60520b647ccade7a1c3a06712de/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第356集 江西南昌篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/90141b698f744456ae32de95dd2b1e07/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第355集 青海格尔木篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/b71b9b6bbe9f420e8cc914d66e6a8da3/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第354集 福建安溪篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/f4af649ed8684186a5608d8d9d5abbb5/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第353集 河南淮阳篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/973a739565ef4aa1a9feb59338da22f6/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第352集 四川天全篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/2180affd21d04fbfb23fc05a7ec0203e/850.m3u8
+#EXTINF:-1 group-title="中国影像方志",第351集 四川苍溪篇
+http://asp.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bd9041da3c474ae79c7ee3343d585615/850.m3u8
 #EXTINF:-1 group-title="中国影像方志",第350集 浙江三门篇
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/890942b35f004372be655fc83ac1e9bd/850.m3u8
 #EXTINF:-1 group-title="中国影像方志",第349集 浙江桐庐篇
