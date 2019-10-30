@@ -22,6 +22,7 @@ CCTV5,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081
 CCTV6,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000006/index.m3u8
 CCTV7,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225923/1.m3u8
 CCTV17农村农业,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/3.m3u8
+CCTV17农村农业,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226866/index.m3u8
 CCTV17农村农业,http://hbzq.chinashadt.com:1937/live/1012.stream_360p/chunklist_w2066553414.m3u8
 CCTV17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 CCTV8,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
