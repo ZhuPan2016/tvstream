@@ -201,6 +201,12 @@ IPTV热播剧场,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99
 六盘水-1,http://39.135.15.210:6610/PLTV/88888888/224/3221225772/1/index.m3u8
 六盘水-2,http://39.135.15.210:6610/PLTV/88888888/224/3221225773/1/index.m3u8
 黔西南-公共,http://39.135.15.210:6610/PLTV/88888888/224/3221226003/1/index.m3u8
+辽宁经济,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226863/index.m3u8
+辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226860/index.m3u8
+辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226850/index.m3u8
+辽宁青少教育,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226847/index.m3u8
+辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226783/index.m3u8
+辽宁公共,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226766/index.m3u8
 金鹰纪实,http://183.215.116.134:6410/180000001001/00000000000000020000000000182315/main.m3u8??
 乒羽先锋,http://183.215.116.144:6610/180000001001/00000000000000020000000000182319/main.m3u8??
 湖南电影,http://183.215.116.144:6610/180000001001/00000000000000020000000000182320/main.m3u8??
