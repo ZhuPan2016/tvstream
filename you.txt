@@ -31,6 +31,7 @@ CCTV17农村农业,http://hbzq.chinashadt.com:1937/live/1012.stream_360p/chunkli
 CCTV17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 CCTV8,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
 CCTV9,http://112.17.40.145/PLTV/88888888/224/3221226609/index.m3u8
+CCTV9,http://117.148.187.56/PLTV/88888888/224/3221226609/index.m3u8
 CCTV9,http://cctvcnch5c.v.wscdns.com/live/cctvjilu_2/index.m3u8
 CCTV10,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000010/index.m3u8
 CCTV10,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225924/1.m3u8
