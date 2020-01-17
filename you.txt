@@ -3,8 +3,6 @@ CCTV1,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081
 山东卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225974/1.m3u8
 山东齐鲁,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CCTV老故事,http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
-CCTV发现之旅,http://223.110.241.204:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
 农林卫视,http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 CCTV央视文化精品,http://39.135.15.210:6610/PLTV/88888888/224/3221225675/1/index.m3u8
 CCTV世界地理,http://39.135.15.210:6610/PLTV/88888888/224/3221225733/1/index.m3u8
@@ -27,8 +25,6 @@ CCTV6,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081
 CCTV7,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225923/1.m3u8
 CCTV17农村农业,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/3.m3u8
 CCTV17农村农业,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226866/index.m3u8
-CCTV17农村农业,http://hbzq.chinashadt.com:1937/live/1012.stream_360p/chunklist_w2066553414.m3u8
-CCTV17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 CCTV8,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
 CCTV9,http://112.17.40.145/PLTV/88888888/224/3221226609/index.m3u8
 CCTV9,http://117.148.187.56/PLTV/88888888/224/3221226609/index.m3u8
