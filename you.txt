@@ -1,6 +1,6 @@
 CCTV1,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225965/1.m3u8
 CCTV1,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000001/index.m3u8
-山东卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225974/1.m3u8
+山东卫视,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000051/index.m3u8
 山东齐鲁,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 农林卫视,http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
