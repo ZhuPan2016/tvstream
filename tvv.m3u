@@ -32,7 +32,7 @@ http://39.134.24.24/PLTV/88888888/224/3221225782/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV11
 http://39.137.76.32:8089/00/SNM/CHANNEL00000011/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV12
-http://39.137.76.32:8089/00/SNM/CHANNEL00000012/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000012/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV13
 http://39.137.76.32:8089/00/SNM/CHANNEL00000013/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV14
@@ -67,6 +67,8 @@ http://117.136.154.98/PLTV/88888888/224/3221225606/index.m3u8
 http://117.136.154.98/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:-1 group-title="电视节目",上海纪实人文
 http://117.136.154.98/PLTV/88888888/224/3221225605/index.m3u8
+#EXTINF:-1 group-title="电视节目",中华美食
+http://39.134.115.163:8080/PLTV/88888910/224/3221225924/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东体育
 http://39.137.76.32:8089/00/SNM/CHANNEL00000057/index.m3u8
 #EXTINF:-1 group-title="电视节目",山东新闻
@@ -102,7 +104,7 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000017/index.m3u8
 #EXTINF:-1 group-title="电视节目",深圳卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000024/index.m3u8
 #EXTINF:-1 group-title="电视节目",天津卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000021/index.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226489/1.m3u8
 #EXTINF:-1 group-title="电视节目",东南卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000028/index.m3u8
 #EXTINF:-1 group-title="电视节目",河南卫视
@@ -110,7 +112,7 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000037/index.m3u8
 #EXTINF:-1 group-title="电视节目",云南卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000039/index.m3u8
 #EXTINF:-1 group-title="电视节目",河北卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000034/index.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225881/1.m3u8
 #EXTINF:-1 group-title="电视节目",厦门卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/1.m3u8
 #EXTINF:-1 group-title="电视节目",内蒙古卫视
@@ -120,7 +122,7 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000027/index.m3u8
 #EXTINF:-1 group-title="电视节目",吉林卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000036/index.m3u8
 #EXTINF:-1 group-title="电视节目",辽宁卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000026/index.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226336/1.m3u8
 #EXTINF:-1 group-title="电视节目",宁夏卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000043/index.m3u8
 #EXTINF:-1 group-title="电视节目",山西卫视
@@ -132,7 +134,7 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000030/index.m3u8
 #EXTINF:-1 group-title="电视节目",三沙卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
 #EXTINF:-1 group-title="电视节目",湖北卫视
-http://39.137.76.32:8089/00/SNM/CHANNEL00000031/index.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226520/1.m3u8
 #EXTINF:-1 group-title="电视节目",甘肃卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000046/index.m3u8
 #EXTINF:-1 group-title="电视节目",贵州卫视
@@ -197,18 +199,16 @@ http://39.134.24.24/PLTV/88888888/224/3221225997/index.m3u8
 http://39.134.24.24/PLTV/88888888/224/3221225993/index.m3u8
 #EXTINF:-1 group-title="电视节目",陕西都市青春
 http://39.134.24.24/PLTV/88888888/224/3221225999/index.m3u8
-#EXTINF:-1 group-title="电视节目",西安1
+#EXTINF:-1 group-title="电视节目",西安新闻综合频道
 http://39.134.24.24/PLTV/88888888/224/3221225991/index.m3u8
-#EXTINF:-1 group-title="电视节目",西安3
+#EXTINF:-1 group-title="电视节目",西安商务资讯频道
 http://39.134.24.24/PLTV/88888888/224/3221225989/index.m3u8
-#EXTINF:-1 group-title="电视节目",西安丝路
+#EXTINF:-1 group-title="电视节目",西安丝路频道
 http://39.134.24.24/PLTV/88888888/224/3221225987/index.m3u8
 #EXTINF:-1 group-title="电视节目",湖南先锋乒羽
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
 #EXTINF:-1 group-title="电视节目",湖南茶频道
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
-#EXTINF:-1 group-title="电视节目",福建教育
-http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8
 #EXTINF:-1 group-title="电视节目",百视通轮播(港剧)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226991/index.m3u8
 #EXTINF:-1 group-title="电视节目",百视通轮播(棋牌)
@@ -307,8 +307,6 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00001066/index.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00001029/index.m3u8
 #EXTINF:-1 group-title="电视节目",新矿新闻综合
 http://39.137.76.32:8089/00/SNM/CHANNEL00000268/index.m3u8
-#EXTINF:-1 group-title="电视节目",东平新闻
-http://39.137.76.32:8089/00/SNM/CHANNEL00001001/index.m3u8
 #EXTINF:-1 group-title="电视节目",东明新闻综合
 http://39.137.76.32:8089/00/SNM/CHANNEL00001065/index.m3u8
 #EXTINF:-1 group-title="电视节目",东营公共
@@ -319,10 +317,6 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000226/index.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00000256/index.m3u8
 #EXTINF:-1 group-title="电视节目",临沂农科
 http://39.137.76.32:8089/00/SNM/CHANNEL00000121/index.m3u8
-#EXTINF:-1 group-title="电视节目",临淄1
-http://39.137.76.32:8089/00/SNM/CHANNEL00001021/index.m3u8
-#EXTINF:-1 group-title="电视节目",任城1
-http://39.137.76.32:8089/00/SNM/CHANNEL00001010/index.m3u8
 #EXTINF:-1 group-title="电视节目",兰陵综合
 http://39.137.76.32:8089/00/SNM/CHANNEL00001032/index.m3u8
 #EXTINF:-1 group-title="电视节目",冠县综合
