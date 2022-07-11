@@ -210,3 +210,5 @@ pjreddie.com
 *.nlark.com
 *.yuque.com
 yuque.com
+weiyun.com
+*.weiyun.com
