@@ -212,3 +212,5 @@ pjreddie.com
 yuque.com
 weiyun.com
 *.weiyun.com
+*.openmmlab.com
+openmmlab.com
