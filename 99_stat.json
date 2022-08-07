@@ -31,4 +31,17 @@
              "statsOutboundDownlink": true
          }
      }
-}
+},
+ "routing": {
+        "rules": [
+            {
+                "inboundTag": [
+                    "api"
+                ],
+                "outboundTag": "api",
+                "type": "field"
+            }
+        ],
+        "domainStrategy": "AsIs"
+    }
+
